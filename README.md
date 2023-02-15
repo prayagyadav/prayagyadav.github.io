@@ -53,7 +53,7 @@
 
 <br>
 
-Hey, nice to meet you, you found this [Jekyll][jekyll] theme. Here the
+Hey, Nice to meet you, you found this [Jekyll][jekyll] theme. Here the
 **Yet Another Theme** is a modern responsive theme, and it's quiet clear,
 clean and neat for writers and posts. **If you like the theme, give it
 a star!**
